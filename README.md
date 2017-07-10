@@ -18,9 +18,17 @@ npm install historie -g
 
 <img src="https://raw.githubusercontent.com/siddharthkp/historie/master/screenshot.gif" height="100px"/>
 
+&nbsp;
+
 #### like it?
 
 ⭐️ this repo
+
+&nbsp;
+
+#### todo
+
+- Give preference to recent commands
 
 &nbsp;
 
