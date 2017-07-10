@@ -16,7 +16,7 @@ npm install historie -g
 
 #### Usage
 
-<img src="https://raw.githubusercontent.com/siddharthkp/historie/master/screenshot.gif" height="100px"/>
+<img src="https://raw.githubusercontent.com/siddharthkp/historie/master/screenshot.gif"/>
 
 &nbsp;
 
