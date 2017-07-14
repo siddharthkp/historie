@@ -8,8 +8,14 @@
 
 #### Install
 
-```
+```sh
 npm install historie -g
+```
+
+If you're on npm >= 5.2 you can also run historie through npx
+
+```sh
+npx historie
 ```
 
 &nbsp;
