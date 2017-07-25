@@ -10,7 +10,9 @@ module.exports = hint => {
 
     const fuse = new Fuse(historyMap, options)
     const matchingHistory = fuse.search(hint)
-    const choices = unique(matchingHistory.map(h => h.command))
+
+    let choices = unique(matchingHistory.map(h => h.command))
+    choices = choices.filter((c) => c);
 
     if (!choices.length) resolve(history)
     else resolve(choices)
