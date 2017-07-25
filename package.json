@@ -1,6 +1,6 @@
 {
   "name": "historie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A searchable history cli",
   "homepage": "https://github.com/siddharthkp/historie#readme",
   "main": "index.js",
